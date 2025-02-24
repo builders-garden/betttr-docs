@@ -20,6 +20,10 @@ export default defineConfig({
     {
       text: 'How it works',
       link: '/how-it-works',
-    }
+    },
+    {
+      text: 'Terms of Service',
+      link: '/terms-of-service',
+    },
   ],
 })
